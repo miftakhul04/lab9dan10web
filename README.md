@@ -31,4 +31,4 @@
 ![image](https://user-images.githubusercontent.com/81568032/120933251-6d82bf00-c723-11eb-843f-d6851b016fcf.png)
 
 # 7. Tampilan Ubah di Lab 8
-![image](https://user-images.githubusercontent.com/81568032/120933288-9dca5d80-c723-11eb-8fe7-866d1834b9de.png)
+![Screenshot (365)](https://user-images.githubusercontent.com/81568032/120933472-893a9500-c724-11eb-9a65-7306adf6e4ae.png)
