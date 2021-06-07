@@ -38,3 +38,31 @@
 
 # 7. Tampilan Ubah di Lab 8
 ![Screenshot (365)](https://user-images.githubusercontent.com/81568032/120933472-893a9500-c724-11eb-9a65-7306adf6e4ae.png)
+
+
+# PARAKTIKUM 10
+
+# 1. Codingan file Mobil dan output
+![Screenshot (366)](https://user-images.githubusercontent.com/81568032/121043000-6f5d8880-c7de-11eb-82f6-f31a812041ca.png)
+
+![Screenshot (367)](https://user-images.githubusercontent.com/81568032/121043029-771d2d00-c7de-11eb-924d-fc59c8721cc3.png)
+
+![Screenshot (371)](https://user-images.githubusercontent.com/81568032/121043154-92883800-c7de-11eb-9cfb-362da1d70bdf.png)
+
+# 2. Codingan file Form dan output
+![Screenshot (368)](https://user-images.githubusercontent.com/81568032/121043244-a469db00-c7de-11eb-9b99-b51081b5cc7c.png)
+
+![Screenshot (369)](https://user-images.githubusercontent.com/81568032/121043268-a9c72580-c7de-11eb-93fd-745a93658f63.png)
+
+![Screenshot (372)](https://user-images.githubusercontent.com/81568032/121043389-c4010380-c7de-11eb-83fc-69c8d001a7f8.png)
+
+# 3. Codingan Form_Input dan output
+![Screenshot (370)](https://user-images.githubusercontent.com/81568032/121043460-da0ec400-c7de-11eb-8e32-46c7b6b29792.png)
+
+![Screenshot (373)](https://user-images.githubusercontent.com/81568032/121043530-e98e0d00-c7de-11eb-83fd-795437182610.png)
+
+
+
+
+
+
